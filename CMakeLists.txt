@@ -111,8 +111,6 @@ endif()
 if(XASH_64BIT)
 	message(STATUS "Building for 64 Bit")
 else()
-	message(STATUS "Building for 32 Bit")
-endif()
 
 
 # Dependencies
